@@ -1,4 +1,4 @@
-Stack Class Implementation
+##Stack Class Implementation
 This repository contains a small project that demonstrates the implementation of a basic stack data structure in C#. The project includes:
 
 Stack Class: A class that provides standard stack operations such as push, pop, peek, and isEmpty.
