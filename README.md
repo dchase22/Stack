@@ -7,10 +7,10 @@ This repository contains a small project that demonstrates the implementation of
 
 **Features**
 
-  **Push**: Add an element to the top of the stack.
+   **Push**: Add an element to the top of the stack.
 
-  **Pop**: Remove the top element from the stack.
+   **Pop**: Remove the top element from the stack.
 
-  **Peek**: Retrieve the top element without removing it.
+   **Peek**: Retrieve the top element without removing it.
 
-  **isEmpty**: Check if the stack is empty.
+   **isEmpty**: Check if the stack is empty.
