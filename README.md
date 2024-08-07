@@ -6,10 +6,11 @@ This repository contains a small project that demonstrates the implementation of
 **Client Code**: A program file with simple client code that illustrates how to use the stack class with brief examples. 
 
 **Features**
-Push: Add an element to the top of the stack.
 
-Pop: Remove the top element from the stack.
+  **Push**: Add an element to the top of the stack.
 
-Peek: Retrieve the top element without removing it.
+  **Pop**: Remove the top element from the stack.
 
-isEmpty: Check if the stack is empty.
+  **Peek**: Retrieve the top element without removing it.
+
+  **isEmpty**: Check if the stack is empty.
